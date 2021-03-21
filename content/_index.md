@@ -4,8 +4,6 @@ featured_image: "/images/dashandezziehome.jpg"
 description: The last theme you'll ever need. Maybe.
 
 ---
-aldfasd;lk
+I love cookies
 
-asdflsdjfl
-
-lasdfjasdlf
+I lovew dandy. 
